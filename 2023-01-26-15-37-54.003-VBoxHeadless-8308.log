@@ -1,0 +1,12 @@
+Log created: 2023-01-26T15:37:54.036901000Z
+Process ID:  8308 (0x2074)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: centos8-kernel6-vagrant-box_default_1674746747200_45351
+Arg[3]: --startvm
+Arg[4]: 52692671-5e8b-4526-9894-6fb2eb113a2a
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
